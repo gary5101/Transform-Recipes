@@ -1,0 +1,9 @@
+wSize=64
+step = wSize//2
+k=6
+sigma=30
+enc_maxs = 0
+enc_mins = 0
+_nbytes = 0
+recipe_lp_shape=0
+recipe_hp_shape=0
